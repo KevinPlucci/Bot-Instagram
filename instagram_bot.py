@@ -17,7 +17,7 @@ def delete_instagram_chats():
     
     try:
         #Abre Instagram
-        driver.get("https://www.instgra,.com/")
+        driver.get("https://www.instgram.com/")
         time.sleep(5)
         
         #Haz click en "Iniciar sesion con Facebook"
